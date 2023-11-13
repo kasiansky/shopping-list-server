@@ -23,8 +23,11 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
+Stack: Nestjs, typeorm, postgresql.
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Create data base in postgresql and fill the credentials in app.module.ts file
+npm i
+npm run start:dev
 
 ## Installation
 
