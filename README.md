@@ -25,9 +25,9 @@
 ## Description
 Stack: Nestjs, typeorm, postgresql.
 
-Create data base in postgresql and fill the credentials in app.module.ts file
+Create data base in postgresql and fill the credentials in app.module.ts file,
 
-npm i
+npm i, 
 
 npm run start:dev
 
